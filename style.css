@@ -1,0 +1,59 @@
+.sec-2{
+    padding: 40px 20px;
+}
+
+/* .row{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.row::after{
+    display: table;
+    clear: both;
+    content: "";
+} */
+
+.con{
+    background-color: rgb(224, 239, 246);
+} 
+
+.container.si-con{
+    margin-top: 8%;
+}
+
+.card{
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.05), 0 3px 5px 0 rgba(0, 0, 0, 0.081) ;
+    -webkit-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.05), 0 3px 5px 0 rgba(0, 0, 0, 0.081);
+    -moz-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.05), 0 3px 5px 0 rgba(0, 0, 0, 0.081);
+    margin: auto;
+    width: 700px;
+    padding: 40px;
+}
+
+logo-con{
+    margin-bottom: 40px;  
+    text-align: center;
+}
+
+.card form button{
+    width: 100%;
+    
+}
+
+.su-con{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.su-con p a{
+    text-decoration: none;
+}
+
+@media screen  and (max-width:800px){
+
+    .container-fluid{
+       
+    }
+    
+}
